@@ -6,8 +6,8 @@
     android:layout_height="match_parent"
     android:background="@drawable/back2"
     android:orientation="vertical"
-    android:paddingLeft="20dp"
-    android:paddingRight="20dp"
+    android:paddingLeft="35dp"
+    android:paddingRight="35dp"
     tools:context="ca.qc.lbpsb.fusion.notifications.Login">
 
     <!--top logo and tittle-->
